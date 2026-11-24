@@ -1,0 +1,6 @@
+{
+  "name": "Guía de Mantenimiento — Equipos y Ubicación",
+  "description": "Plataforma técnica de mantenimiento industrial para consultar especificaciones técnicas, ubicación en planta, lubricación, repuestos y procedimientos de seguridad de los equipos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
